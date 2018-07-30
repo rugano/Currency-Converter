@@ -1,0 +1,50 @@
+html {
+	height: 100%;
+}
+
+body {
+	background: linear-gradient(to left, blue, white);
+}
+
+h1 {
+	color: #000;
+	font-size: 3em;
+	text-align: center;
+}
+
+.currencies_1 {
+	color: #000;
+	font-size: 2em;
+	text-align: left;
+}
+
+.currencies_2 {
+	color: #000;
+	font-size: 2em;
+	text-align: left;
+}
+
+#fromAmount {
+	color: #000;
+	text-align: left;
+	font-size: 2em;
+}
+
+#toAmount {
+	color: #000;
+	text-align: left;
+	font-size: 2em;
+}
+
+#clickMe {
+	background-color: #C45A3A;
+	border: none;
+	color: white;
+	padding: 18px 34px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
